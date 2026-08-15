@@ -1,0 +1,9 @@
+{
+  "movie": "Dune: Part Three",
+  "days_ahead": 90,
+  "rows": "L,M,P",
+  "middle_only": true,
+  "middle_width": 14,
+  "interval_minutes": 1,
+  "check_seats": true
+}
